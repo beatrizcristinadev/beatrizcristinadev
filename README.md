@@ -5,8 +5,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcristinadev&layout=compact&hide_border=true&theme=gruvbox" />
 </div>
 
-## [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=beatrizcristinadev&bg_color=323232&color=ff4500&line=ffa500&point=ff4500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
